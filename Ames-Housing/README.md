@@ -4,5 +4,5 @@ Kaggle machine learning challenge
 
 2) Model selection and fine tuning.
 
-**Score: Top 5% **
+*Score: Top 5% *
 
